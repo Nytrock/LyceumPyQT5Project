@@ -10,7 +10,7 @@
 
  - Клонировать репозиторий в свою среду
 	```shell
-	git clone https://github.com/Nytrock/lyceum_pyqt5_project.git
+	git clone https://github.com/Nytrock/LyceumPyQT5Project.git
 	```
 
  - Установить зависимости с помощью requirements.txt
